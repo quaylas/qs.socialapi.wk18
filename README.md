@@ -54,7 +54,7 @@
 
   ## Usage
 
-  When installationo is complete, the application is initialized by the command $npm start. Once the application is running, all API routes can be tested using a tool like [Insomnia](https://insomnia.rest/).  
+  When installation is complete, the application is initialized by the command $npm start. Once the application is running, all API routes can be tested using a tool like [Insomnia](https://insomnia.rest/).  
 
   ## Contributions
 
